@@ -1,0 +1,4 @@
+#run below command
+python stitch.py ../../data
+
+#Script should not take more than 5 mins to execute the given test data.
